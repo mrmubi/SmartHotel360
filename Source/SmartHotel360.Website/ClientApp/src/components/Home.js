@@ -18,7 +18,7 @@ class Home extends Component {
         return <div className='sh-home'>
             <div className='sh-hero'>
                 <div className='sh-hero-wrapper'>
-                    <div className='sh-hero-title'>The future of intelligent hospitality and connected workplace ... Demo</div>
+                    <div className='sh-hero-title'>The future of intelligent hospitality and connected workplace ... v1</div>
                     <ul className='sh-hero-buttons'>
                         <li className='sh-hero-button'>
                             <div className='sh-hero-download_app sh-hero-download_app--win'></div>
